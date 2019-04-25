@@ -3,3 +3,4 @@ jupyter notebook to visualise and clean house prices dataset - pre-machine learn
 
 ---
 https://www.kaggle.com/ekami66/detailed-exploratory-data-analysis-with-python/data
+https://kite.com/blog/python/data-analysis-visualization-python
